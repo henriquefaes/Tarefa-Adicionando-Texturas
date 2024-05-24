@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\vitor\OneDrive\Área de Trabalho\Henrique\Meu repositório\CGCCHibrido-main-HenriqueFaés\HelloTextures\HelloTextures\Origem.cpp(34,18): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  HelloTextures.vcxproj -> C:\Users\vitor\OneDrive\Área de Trabalho\Henrique\Meu repositório\CGCCHibrido-main-HenriqueFaés\HelloTextures\Debug\HelloTextures.exe
